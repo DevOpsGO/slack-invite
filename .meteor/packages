@@ -8,3 +8,4 @@ meteor-platform
 autopublish
 insecure
 19degrees:slack-invite
+twbs:bootstrap
